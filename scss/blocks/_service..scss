@@ -1,0 +1,29 @@
+
+.service__list {
+    padding: 40px 80px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 0px 4px 20px 0px #00000026;
+}
+.service__item {
+}
+.service__img {
+    margin-bottom: 24px;
+}
+.service__subtitle {
+    width: 228px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #363738;
+}
+.service__subtext {
+    width: 225px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6B6B6C;
+}

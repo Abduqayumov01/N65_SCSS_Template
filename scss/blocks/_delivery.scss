@@ -1,0 +1,39 @@
+.delivery-section {
+}
+.delivery {
+}
+.delivery__title {
+    width: 687px;
+    margin-top: 48px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    color: #363738;
+}
+.delivery__list {
+    flex-direction: column;
+
+}
+.delivery-item{
+    display: flex;
+    gap: 24px;
+    row-gap: 24px;
+    box-shadow: 0px 4px 15px 0px #0000001F;
+}
+.delivery__title-wrap {
+}
+.delivery__subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    color: #363738;
+}
+.delivery__bottom {
+}
+.delivery__text {
+    width: 568px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6B6B6C;
+}
